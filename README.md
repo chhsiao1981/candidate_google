@@ -15,7 +15,6 @@ Data
 * town_representative: 鄉鎮市民代表
 * aboriginal_leader: 直轄市山地原住民區長
 * aboriginal_representative: 直轄市山地原住民區民代表
-* village_leader: 村里長
 
 Generate Data
 ==========
