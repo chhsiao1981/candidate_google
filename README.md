@@ -22,6 +22,7 @@ Generate Data
 1. ./scripts/init.sh
 2. ./scripts/gen_scripts.sh
 3. (in bash) for j in ./scripts_op/*; do ./${j}; done
+4. 產生的 data 的 repository 在 https://github.com/chhsiao1981/candidate_google_data.git
 
 Reference Data
 =========
