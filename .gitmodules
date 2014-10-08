@@ -1,0 +1,6 @@
+[submodule "elections"]
+	path = elections
+	url = https://github.com/kiang/elections
+[submodule "data"]
+	path = data
+	url = https://github.com/chhsiao1981/candidate_google_data.git

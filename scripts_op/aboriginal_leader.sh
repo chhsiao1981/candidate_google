@@ -1,0 +1,21 @@
+mkdir -p data/aboriginal_leader
+rm data/aboriginal_leader/高富貫.新北市.facebook.csv; cd google_search; scrapy crawl google_search -a q=高富貫,新北市,facebook -o ../data/aboriginal_leader/高富貫.新北市.facebook.csv; cd ..
+rm data/aboriginal_leader/周守信.新北市.facebook.csv; cd google_search; scrapy crawl google_search -a q=周守信,新北市,facebook -o ../data/aboriginal_leader/周守信.新北市.facebook.csv; cd ..
+rm data/aboriginal_leader/張德勝.新北市.facebook.csv; cd google_search; scrapy crawl google_search -a q=張德勝,新北市,facebook -o ../data/aboriginal_leader/張德勝.新北市.facebook.csv; cd ..
+rm data/aboriginal_leader/林啟明.新北市.facebook.csv; cd google_search; scrapy crawl google_search -a q=林啟明,新北市,facebook -o ../data/aboriginal_leader/林啟明.新北市.facebook.csv; cd ..
+rm data/aboriginal_leader/蔡馬新.新北市.facebook.csv; cd google_search; scrapy crawl google_search -a q=蔡馬新,新北市,facebook -o ../data/aboriginal_leader/蔡馬新.新北市.facebook.csv; cd ..
+rm data/aboriginal_leader/范振興.桃園市.facebook.csv; cd google_search; scrapy crawl google_search -a q=范振興,桃園市,facebook -o ../data/aboriginal_leader/范振興.桃園市.facebook.csv; cd ..
+rm data/aboriginal_leader/曾志湘.桃園市.facebook.csv; cd google_search; scrapy crawl google_search -a q=曾志湘,桃園市,facebook -o ../data/aboriginal_leader/曾志湘.桃園市.facebook.csv; cd ..
+rm data/aboriginal_leader/陳子瀅.桃園市.facebook.csv; cd google_search; scrapy crawl google_search -a q=陳子瀅,桃園市,facebook -o ../data/aboriginal_leader/陳子瀅.桃園市.facebook.csv; cd ..
+rm data/aboriginal_leader/陽國榮.桃園市.facebook.csv; cd google_search; scrapy crawl google_search -a q=陽國榮,桃園市,facebook -o ../data/aboriginal_leader/陽國榮.桃園市.facebook.csv; cd ..
+rm data/aboriginal_leader/陳文書.臺中市.facebook.csv; cd google_search; scrapy crawl google_search -a q=陳文書,臺中市,facebook -o ../data/aboriginal_leader/陳文書.臺中市.facebook.csv; cd ..
+rm data/aboriginal_leader/林建堂.臺中市.facebook.csv; cd google_search; scrapy crawl google_search -a q=林建堂,臺中市,facebook -o ../data/aboriginal_leader/林建堂.臺中市.facebook.csv; cd ..
+rm data/aboriginal_leader/吳萬福.臺中市.facebook.csv; cd google_search; scrapy crawl google_search -a q=吳萬福,臺中市,facebook -o ../data/aboriginal_leader/吳萬福.臺中市.facebook.csv; cd ..
+rm data/aboriginal_leader/施貴成.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=施貴成,高雄市,facebook -o ../data/aboriginal_leader/施貴成.高雄市.facebook.csv; cd ..
+rm data/aboriginal_leader/謝進財.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=謝進財,高雄市,facebook -o ../data/aboriginal_leader/謝進財.高雄市.facebook.csv; cd ..
+rm data/aboriginal_leader/宋能正.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=宋能正,高雄市,facebook -o ../data/aboriginal_leader/宋能正.高雄市.facebook.csv; cd ..
+rm data/aboriginal_leader/謝英雄.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=謝英雄,高雄市,facebook -o ../data/aboriginal_leader/謝英雄.高雄市.facebook.csv; cd ..
+rm data/aboriginal_leader/高豫.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=高豫,高雄市,facebook -o ../data/aboriginal_leader/高豫.高雄市.facebook.csv; cd ..
+rm data/aboriginal_leader/張德政.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=張德政,高雄市,facebook -o ../data/aboriginal_leader/張德政.高雄市.facebook.csv; cd ..
+rm data/aboriginal_leader/白樣‧伊斯理鍛.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=白樣‧伊斯理鍛,高雄市,facebook -o ../data/aboriginal_leader/白樣‧伊斯理鍛.高雄市.facebook.csv; cd ..
+rm data/aboriginal_leader/徐出世.高雄市.facebook.csv; cd google_search; scrapy crawl google_search -a q=徐出世,高雄市,facebook -o ../data/aboriginal_leader/徐出世.高雄市.facebook.csv; cd ..
